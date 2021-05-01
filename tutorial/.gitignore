@@ -1,0 +1,8 @@
+#.gitignore
+
+
+.env
+env
+
+ReadMe.txt
+ReadMe-1.txt
